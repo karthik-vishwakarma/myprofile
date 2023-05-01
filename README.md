@@ -1,3 +1,25 @@
-- 👋 Hi, I’m Kamlesh Vishwakarma
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Spring Boot Microservice, kubernetes, Docker, Hibernete, JPA many more
+# Kamlesh Vishwakarma
+
+## Senior Software Engineer
+
+```text
+👋 Hi, my name is Kamlesh Vishwakarma. I have a background in product engineering and
+experience developing distributed applications independently. I possess good practices and principles for software
+development and have strong interpersonal, problem-solving, and communication skills. I am capable of autonomously
+executing low-level design or implementing modules. Currently, 👀 I am interested in learning technologies such as Spring
+Boot Microservice, Kubernetes, Docker, Hibernate, and JPA, among others.
+```
+
+### SKILLS
+
+* **Java**
+* **Spring Boot**
+* **Microservices**
+* **MySQL**
+* **Kafka**
+* **Kubernetes**
+* **Hibernate**
+* **Maven**
+* **Docker**
+* **Data Structure**
+* **JDBC**
