@@ -23,3 +23,11 @@ Boot Microservice, Kubernetes, Docker, Hibernate, and JPA, among others.
 * **Docker**
 * **Data Structure**
 * **JDBC**
+
+### EDUCATION
+
+```text
+Bachelor of Engineering (Computer Science Engineering)
+- Gyan Ganga Institute of Technology and Sciences
+- 07/2015 - 05/2019
+```
