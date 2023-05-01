@@ -10,7 +10,7 @@
 - Currently, 👀 I am interested in learning technologies such as Spring Boot Microservice, Kubernetes, Docker, Hibernate, and JPA, among others.
 ```
 
-### SKILLS
+### 🛠️ SKILLS
 
 * **Java**
 * **Spring Boot**
@@ -24,10 +24,15 @@
 * **Data Structure**
 * **JDBC**
 
-### EDUCATION
+### 🏢 EDUCATION
 
 ```text
 Bachelor of Engineering (Computer Science Engineering)
 - Gyan Ganga Institute of Technology and Sciences
 - 07/2015 - 05/2019
 ```
+
+### 📞 CONTACT
+
+* [📎 **Linkedin**](https://www.linkedin.com/in/kamlesh-vishwakarma-in/)
+* [📎 **Instagram**](https://www.instagram.com/karthik.vishwakarma_/)
