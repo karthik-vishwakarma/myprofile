@@ -627,13 +627,44 @@ a.active {
     line-height: 50px;
 }
 
+/* education section
+==================================================*/
+
+#education {
+    padding: 100px 0;
+    background: #f3f3f3
+}
+
+.education-row {
+    padding: 20px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.education-row h3 {
+    font-family: 'Lato', sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: #425BB5;
+    font-size: 16px;
+    font-weight: bold
+}
+
+.education-row p {
+    color: #888;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.education-row .date {
+    color: #000;
+    font-size: 17px;
+}
 
 /* contact
 ==================================================*/
 
 #contact {
     padding: 100px 0;
-    background: #f3f3f3
 }
 
 #contact-form input,
