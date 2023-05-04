@@ -621,6 +621,25 @@ a.active {
     opacity: 1;
 }
 
+.close-popup-modal1 {
+    float: right;
+    margin: 20px;
+    font-size: 22px;
+    opacity: 0;
+    cursor: pointer;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    -webkit-transition-delay: .6s;
+    transition-delay: .6s;
+    position: fixed;
+    z-index: 100000;
+    right: 14px;
+}
+
+.animatedModal1-on .close-popup-modal1 {
+    opacity: 1;
+}
+
 .modal-content h2 {
     font-family: 'Playfair Display', serif;
     font-size: 40px;
