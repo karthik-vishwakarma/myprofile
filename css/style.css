@@ -633,6 +633,10 @@ a.active {
      opacity: 1;
 }
 
+.other_cert_animatedModal1-on .close-popup-modal {
+     opacity: 1;
+}
+
 .modal-content h2 {
     font-family: 'Playfair Display', serif;
     font-size: 40px;
@@ -677,6 +681,7 @@ a.active {
 
 #contact {
     padding: 100px 0;
+     background: #f3f3f3
 }
 
 #contact-form input,

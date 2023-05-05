@@ -109,6 +109,9 @@ $(document).ready(function () {
     $("#demo03").animatedModal3();
     $("#demo04").animatedModal4();
 
+    //animatedModal
+    $("#other_cert01").other_cert_animatedModal1();
+
     // Contact Form 	
 
     // validate contact form
