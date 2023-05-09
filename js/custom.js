@@ -104,14 +104,35 @@ $(document).ready(function () {
     });
 
     //animatedModal
-    $("#demo01").animatedModal1();
-    $("#demo02").animatedModal2();
-    $("#demo03").animatedModal3();
-    $("#demo04").animatedModal4();
+    $("#demo01").animatedModal({
+      modalTarget: "animatedModal1",
+      // Add any other specific options for demo01
+    });
 
-    //animatedModal
-    $("#other_cert01").other_cert_animatedModal1();
-    $("#other_cert02").other_cert_animatedModal2();
+    $("#demo02").animatedModal({
+      modalTarget: "animatedModal2",
+      // Add any other specific options for demo02
+    });
+
+    $("#demo03").animatedModal({
+      modalTarget: "animatedModal3",
+      // Add any other specific options for demo03
+    });
+
+    $("#demo04").animatedModal({
+      modalTarget: "animatedModal4",
+      // Add any other specific options for demo01
+    });
+
+    $("#other_cert01").animatedModal({
+      modalTarget: "other_cert_animatedModal1",
+      // Add any other specific options for demo02
+    });
+
+    $("#other_cert02").animatedModal({
+      modalTarget: "other_cert_animatedModal2",
+      // Add any other specific options for demo03
+    });
 
     // Contact Form 	
 

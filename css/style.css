@@ -617,28 +617,8 @@ a.active {
     right: 14px;
 }
 
-.animatedModal1-on .close-popup-modal {
-    opacity: 1;
-}
-
-.animatedModal2-on .close-popup-modal {
-    opacity: 1;
-}
-
-.animatedModal3-on .close-popup-modal {
-    opacity: 1;
-}
-
-.animatedModal4-on .close-popup-modal {
-     opacity: 1;
-}
-
-.other_cert_animatedModal1-on .close-popup-modal {
-     opacity: 1;
-}
-
-.other_cert_animatedModal2-on .close-popup-modal {
-     opacity: 1;
+[class*="animatedModal"] .close-popup-modal {
+  opacity: 1;
 }
 
 .modal-content h2 {
