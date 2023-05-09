@@ -111,6 +111,7 @@ $(document).ready(function () {
 
     //animatedModal
     $("#other_cert01").other_cert_animatedModal1();
+    $("#other_cert02").other_cert_animatedModal2();
 
     // Contact Form 	
 
