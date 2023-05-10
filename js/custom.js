@@ -134,6 +134,16 @@ $(document).ready(function () {
       // Add any other specific options for demo03
     });
 
+    $("#rakuten_cert01").animatedModal({
+      modalTarget: "rakuten_cert_animatedModal1",
+      // Add any other specific options for demo02
+    });
+
+    $("#rakuten_cert02").animatedModal({
+      modalTarget: "rakuten_cert_animatedModal2",
+      // Add any other specific options for demo03
+    });
+
     // Contact Form 	
 
     // validate contact form
