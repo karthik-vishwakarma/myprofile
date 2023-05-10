@@ -144,6 +144,16 @@ $(document).ready(function () {
       // Add any other specific options for demo03
     });
 
+    $("#other_cert05").animatedModal({
+      modalTarget: "other_cert_animatedModal5",
+      // Add any other specific options for demo02
+    });
+
+    $("#other_cert06").animatedModal({
+      modalTarget: "other_cert_animatedModal6",
+      // Add any other specific options for demo03
+    });
+
     $("#rakuten_cert01").animatedModal({
       modalTarget: "rakuten_cert_animatedModal1",
       // Add any other specific options for demo02
