@@ -124,36 +124,8 @@ $(document).ready(function () {
       // Add any other specific options for demo01
     });
 
-    $("#other_cert01").animatedModal({
-      modalTarget: "other_cert_animatedModal1",
-      // Add any other specific options for demo02
-    });
-
-    $("#other_cert02").animatedModal({
-      modalTarget: "other_cert_animatedModal2",
-      // Add any other specific options for demo03
-    });
-
-    $("#other_cert03").animatedModal({
-      modalTarget: "other_cert_animatedModal3",
-      // Add any other specific options for demo02
-    });
-
-    $("#other_cert04").animatedModal({
-      modalTarget: "other_cert_animatedModal4",
-      // Add any other specific options for demo03
-    });
-
-    $("#other_cert05").animatedModal({
-      modalTarget: "other_cert_animatedModal5",
-      // Add any other specific options for demo02
-    });
-
-    $("#other_cert06").animatedModal({
-      modalTarget: "other_cert_animatedModal6",
-      // Add any other specific options for demo03
-    });
-
+    // Certificates
+    //Rakuten
     $("#rakuten_cert01").animatedModal({
       modalTarget: "rakuten_cert_animatedModal1",
       // Add any other specific options for demo02
@@ -161,6 +133,38 @@ $(document).ready(function () {
 
     $("#rakuten_cert02").animatedModal({
       modalTarget: "rakuten_cert_animatedModal2",
+      // Add any other specific options for demo03
+    });
+
+    //programming
+    $("#prgm_cert01").animatedModal({
+      modalTarget: "prgm_cert_animatedModal1",
+      // Add any other specific options for demo02
+    });
+
+    $("#prgm_cert02").animatedModal({
+      modalTarget: "prgm_cert_animatedModal2",
+      // Add any other specific options for demo03
+    });
+
+    $("#prgm_cert03").animatedModal({
+      modalTarget: "prgm_cert_animatedModal3",
+      // Add any other specific options for demo02
+    });
+
+    //Other
+    $("#other_cert01").animatedModal({
+      modalTarget: "other_cert_animatedModal1",
+      // Add any other specific options for demo03
+    });
+
+    $("#other_cert02").animatedModal({
+      modalTarget: "other_cert_animatedModal2",
+      // Add any other specific options for demo02
+    });
+
+    $("#other_cert03").animatedModal({
+      modalTarget: "other_cert_animatedModal3",
       // Add any other specific options for demo03
     });
 
