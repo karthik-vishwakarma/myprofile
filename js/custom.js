@@ -205,7 +205,7 @@ $(document).ready(function () {
                 $(form).ajaxSubmit({
                     type: "POST",
                     data: $(form).serialize(),
-                    url: "process.php",
+                    url: "https://script.google.com/macros/s/AKfycbx1uzQVRRVFcCwcKZ7RxOMKv2cN_1b1I0sgViBxDalgzH5Q-SqP4cY0vtWsBA3R__BYxg/exec",
                     success: function () {
                         $('#contact :input').attr('disabled', 'disabled');
                         $('#contact').fadeTo("slow", 1, function () {
