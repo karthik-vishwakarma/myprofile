@@ -1,9 +1,9 @@
-# Kamlesh Vishwakarma
+# Kartik Vishwakarma
 
 #### Senior Software Engineer
 
 ```text
-- 👋 Hi, my name is Kamlesh Vishwakarma. 
+- 👋 Hi, my name is Kartik Vishwakarma. 
 - I have a background in product engineering and experience developing distributed applications independently. 
 - I possess good practices and principles for software development and have strong interpersonal, problem-solving, and communication skills. 
 - I am capable of autonomously executing low-level design or implementing modules. 
@@ -34,5 +34,5 @@ Bachelor of Engineering (Computer Science Engineering)
 
 ### 📞 CONTACT
 
-* [📎 **Linkedin**](https://www.linkedin.com/in/kamlesh-vishwakarma-in/)
+* [📎 **Linkedin**](https://www.linkedin.com/in/Kartik-vishwakarma-in/)
 * [📎 **Instagram**](https://www.instagram.com/karthik.vishwakarma_/)
